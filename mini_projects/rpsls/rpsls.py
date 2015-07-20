@@ -1,3 +1,4 @@
+#codeskulptor url: http://www.codeskulptor.org/#user40_EYU4XM6Z4K_0.py
 # Rock-paper-scissors-lizard-Spock template
 import random
 
@@ -74,7 +75,7 @@ def rpsls(player_choice):
     elif difference == 3 or difference == 4:
         print "Player wins!"
     elif difference == 0:
-        print "Tie!"
+        print "Player and computer tie!"
     else:
         print "Something went wrong!"
     
