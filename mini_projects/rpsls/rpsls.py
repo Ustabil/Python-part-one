@@ -1,4 +1,4 @@
-#codeskulptor url: http://www.codeskulptor.org/#user40_EYU4XM6Z4K_0.py
+#codeskulptor url: http://www.codeskulptor.org/#user40_rXnVfx7qI2_0.py
 # Rock-paper-scissors-lizard-Spock template
 import random
 
